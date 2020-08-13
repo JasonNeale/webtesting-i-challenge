@@ -1,0 +1,19 @@
+{
+  "name": "webtesting-i-challange",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "lambda",
+    "testing"
+  ],
+  "author": "Lambda School",
+  "dependencies": {
+    "jest": "^26.3.0"
+  }
+}
